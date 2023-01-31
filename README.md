@@ -1,2 +1,2 @@
-# Capstone
+# Capstone Technical
 For capstone
